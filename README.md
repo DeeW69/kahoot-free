@@ -12,6 +12,8 @@ Application française de quiz multijoueur gratuite et indépendante de Kahoot. 
 - Chronomètre côté serveur, une réponse par joueur et question, bonne réponse cachée avant la révélation.
 - Score : 500 à 1 000 points pour une bonne réponse selon la rapidité ; classement et podium.
 - Interface responsive et sons activables.
+- Avatars personnalisables : huit personnages, chapeaux, lunettes, badges et six couleurs. Choix à l’entrée et modification pendant la partie, sauvegardés en D1.
+- Classement avec avatars, mise en évidence du joueur, évolution des places, points de la question et podium visuel.
 
 ## Limites de cette première version
 
